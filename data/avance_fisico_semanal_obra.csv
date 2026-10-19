@@ -1,0 +1,241 @@
+﻿semana,codigo_partida,partida,especialidad,encargado,peso_partida,avance_plan_semanal,avance_real_semanal
+1,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,1.33,1.53
+1,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+1,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+1,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+1,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+1,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+1,P07,Albañilería,Arquitectura,Felipe Contreras,6,2.0,2.2
+1,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+1,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+1,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+1,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+1,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+1,P13,Climatización,Instalaciones,Sebastián Torres,4,1.33,1.53
+1,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+1,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+1,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+1,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+1,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+1,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,1.33,1.47
+1,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+2,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,1.33,1.4
+2,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,2.0,1.64
+2,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+2,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+2,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+2,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+2,P07,Albañilería,Arquitectura,Felipe Contreras,6,2.0,2.16
+2,P08,Tabiquería,Arquitectura,Felipe Contreras,5,1.67,1.47
+2,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+2,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+2,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+2,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+2,P13,Climatización,Instalaciones,Sebastián Torres,4,1.33,1.4
+2,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.67,0.55
+2,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+2,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+2,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+2,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+2,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,1.33,1.44
+2,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.67,0.59
+3,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,1.33,1.47
+3,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,2.0,1.56
+3,P03,Fundaciones,Estructura,Andrés Rojas,8,2.0,2.0
+3,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+3,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+3,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+3,P07,Albañilería,Arquitectura,Felipe Contreras,6,2.0,2.3
+3,P08,Tabiquería,Arquitectura,Felipe Contreras,5,1.67,1.53
+3,P09,Cubierta,Arquitectura,Felipe Contreras,4,1.33,1.33
+3,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+3,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+3,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+3,P13,Climatización,Instalaciones,Sebastián Torres,4,1.33,1.47
+3,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.67,0.52
+3,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,2.0,2.0
+3,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+3,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+3,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+3,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,1.33,1.53
+3,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.67,0.61
+4,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+4,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,2.0,1.76
+4,P03,Fundaciones,Estructura,Andrés Rojas,8,2.0,2.04
+4,P04,Muros de hormigón,Estructura,Andrés Rojas,9,2.25,2.48
+4,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+4,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+4,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+4,P08,Tabiquería,Arquitectura,Felipe Contreras,5,1.67,1.37
+4,P09,Cubierta,Arquitectura,Felipe Contreras,4,1.33,1.31
+4,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,1.0,1.15
+4,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+4,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+4,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+4,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.67,0.59
+4,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,2.0,2.04
+4,P16,Pavimentos,Terminaciones,Matías Herrera,5,1.67,1.83
+4,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+4,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+4,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+4,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.67,0.55
+5,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+5,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+5,P03,Fundaciones,Estructura,Andrés Rojas,8,2.0,2.0
+5,P04,Muros de hormigón,Estructura,Andrés Rojas,9,2.25,2.43
+5,P05,Losas de hormigón,Estructura,Andrés Rojas,8,2.0,1.76
+5,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+5,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+5,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+5,P09,Cubierta,Arquitectura,Felipe Contreras,4,1.33,1.33
+5,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,1.0,1.05
+5,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,2.0,1.64
+5,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+5,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+5,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+5,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,2.0,2.0
+5,P16,Pavimentos,Terminaciones,Matías Herrera,5,1.67,1.8
+5,P17,Cielos,Terminaciones,Matías Herrera,4,1.33,1.17
+5,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+5,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+5,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+6,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+6,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+6,P03,Fundaciones,Estructura,Andrés Rojas,8,2.0,1.96
+6,P04,Muros de hormigón,Estructura,Andrés Rojas,9,2.25,2.59
+6,P05,Losas de hormigón,Estructura,Andrés Rojas,8,2.0,1.84
+6,P06,Estructura metálica,Estructura,Felipe Contreras,5,1.67,1.67
+6,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+6,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+6,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+6,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,1.0,1.1
+6,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,2.0,1.56
+6,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,1.67,1.67
+6,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+6,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+6,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+6,P16,Pavimentos,Terminaciones,Matías Herrera,5,1.67,1.92
+6,P17,Cielos,Terminaciones,Matías Herrera,4,1.33,1.23
+6,P18,Pinturas,Terminaciones,Matías Herrera,4,1.33,1.33
+6,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+6,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+7,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+7,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+7,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+7,P04,Muros de hormigón,Estructura,Andrés Rojas,9,2.25,2.36
+7,P05,Losas de hormigón,Estructura,Andrés Rojas,8,2.0,1.64
+7,P06,Estructura metálica,Estructura,Felipe Contreras,5,1.67,1.63
+7,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+7,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+7,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+7,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+7,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,2.0,1.76
+7,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,1.67,1.7
+7,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+7,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+7,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+7,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+7,P17,Cielos,Terminaciones,Matías Herrera,4,1.33,1.09
+7,P18,Pinturas,Terminaciones,Matías Herrera,4,1.33,1.31
+7,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+7,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+8,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+8,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+8,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+8,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+8,P05,Losas de hormigón,Estructura,Andrés Rojas,8,2.0,1.56
+8,P06,Estructura metálica,Estructura,Felipe Contreras,5,1.67,1.67
+8,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+8,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+8,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+8,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+8,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+8,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,1.67,1.67
+8,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+8,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+8,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+8,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+8,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+8,P18,Pinturas,Terminaciones,Matías Herrera,4,1.33,1.33
+8,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+8,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+9,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+9,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+9,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+9,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+9,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+9,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+9,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+9,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+9,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+9,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+9,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+9,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+9,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+9,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+9,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+9,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+9,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+9,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+9,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+9,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+10,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+10,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+10,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+10,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+10,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+10,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+10,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+10,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+10,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+10,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+10,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+10,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+10,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+10,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+10,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+10,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+10,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+10,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+10,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+10,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+11,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+11,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+11,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+11,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+11,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+11,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+11,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+11,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+11,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+11,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+11,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+11,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+11,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+11,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+11,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+11,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+11,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+11,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+11,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+11,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
+12,P01,Instalación de faena,Obras preliminares,Carlos Muñoz,4,0.0,0.0
+12,P02,Excavaciones,Obras preliminares,Carlos Muñoz,6,0.0,0.0
+12,P03,Fundaciones,Estructura,Andrés Rojas,8,0.0,0.0
+12,P04,Muros de hormigón,Estructura,Andrés Rojas,9,0.0,0.0
+12,P05,Losas de hormigón,Estructura,Andrés Rojas,8,0.0,0.0
+12,P06,Estructura metálica,Estructura,Felipe Contreras,5,0.0,0.0
+12,P07,Albañilería,Arquitectura,Felipe Contreras,6,0.0,0.0
+12,P08,Tabiquería,Arquitectura,Felipe Contreras,5,0.0,0.0
+12,P09,Cubierta,Arquitectura,Felipe Contreras,4,0.0,0.0
+12,P10,Impermeabilización,Arquitectura,Felipe Contreras,3,0.0,0.0
+12,P11,Instalación eléctrica,Instalaciones,Sebastián Torres,6,0.0,0.0
+12,P12,Instalación sanitaria,Instalaciones,Sebastián Torres,5,0.0,0.0
+12,P13,Climatización,Instalaciones,Sebastián Torres,4,0.0,0.0
+12,P14,Detección y alarma,Instalaciones,Sebastián Torres,2,0.0,0.0
+12,P15,Revestimientos interiores,Terminaciones,Matías Herrera,6,0.0,0.0
+12,P16,Pavimentos,Terminaciones,Matías Herrera,5,0.0,0.0
+12,P17,Cielos,Terminaciones,Matías Herrera,4,0.0,0.0
+12,P18,Pinturas,Terminaciones,Matías Herrera,4,0.0,0.0
+12,P19,Puertas y ventanas,Arquitectura,Matías Herrera,4,0.0,0.0
+12,P20,Obras exteriores,Obras preliminares,Carlos Muñoz,2,0.0,0.0
